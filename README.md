@@ -1,6 +1,6 @@
 ![Header](https://www.etestware.com/wp-content/uploads/2020/08/shutterstock_515285995-1200x580.jpg)
 # PORTFOLIO
-[Link to my CV](https://drive.google.com/file/d/1IIOM81Ec9qbz6F4iafwl80FvjgFf60sR/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1lil7zq-sE_KtJfvdhFMSfCHVdmDkeIi1/view?usp=sharing)
 ## About me
 
 My name is **Rafal Baczynski-Sielaczek**. I'm master of sociology. After many years of working with people and for people I have chosen a new direction of professional development. My goal is to develop test and technical skills. On this site I would like to share my all gained experience from my personal studies & researches.
