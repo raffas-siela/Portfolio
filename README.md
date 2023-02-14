@@ -36,19 +36,6 @@ The Direction: I started a course on creating automated tests for mobile applica
 - Accessibility testing (A11Y);
 - Web performance.
 <br>
-## Articles<br>
-You can read about my work, experience, tools and what I watch and listen to. Through these things I tried to show how I work.
-
-In the article "Good practices in website testing" I show areas that require special attention and good practices in website testing. I have prepared an overview of the tools I use in my daily work. Through this review, I show the wide range of manual tests I perform.
-The article also includes a checklist for website testers. The checklist was created on the basis of my experience and acquired knowledge. I assume that it may not be a universal tool for website testers. It reflects the requirements of the projects I tested.<br>
-
-Thanks to that article What I read, watch and listen to... I want to show You sources of my knowledge. I try to show the most interesting areas of testing for me. I hope it will be a valuable source of knowledge. If you want to hire me - you know what I watch and read. If you are a novice tester - this will be a source of inspiration.
-
-**Links to the articles::**<br>
-1. **[Good practices in website testing](https://github.com/raffas-siela/portfolio/wiki/Good-practices-in-website-testing)**
-2. **[My testing tools](https://github.com/raffas-siela/portfolio/wiki/My-testing-tools)**
-3. **[What I read, watch and listen to...](https://github.com/raffas-siela/portfolio/wiki/What-I-read,-watch-and-listen-to...)**
-
 
 ## Courses & Certificates
 1. **ISTQB® Foundation Level**: International Software Testing Qualifications Board;<br> 
