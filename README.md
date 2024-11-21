@@ -65,11 +65,8 @@ The Direction: I started a course on creating automated tests for mobile applica
 9. **PRINCE2® Foundation Certificate in Project Management**; <br>
 **[verification](https://candidate.peoplecert.org/ReportsLink.aspx?argType=1&id=427E8D5267B8B03AD18E51741EA8AF7FEBC0D10C4B218CCF734AC47BB489D2B087F61C80C197DBE5)**, **[certyficate](https://drive.google.com/file/d/1gLV-Som_A-OD-0_AFgTp6kZtRdnt0bPy/view?usp=sharing)**
 
-10. ****; <br>
-**[certyficate].().**
-
-6. **Selenium WebDriver 4 w Javie**: testelka.pl; <br>
-**[certyficate]([https://drive.google.com/file/d/1yoa1g_qXNj80rz13c5H-La0jNgH1E1io/view?usp=sharing](https://drive.google.com/file/d/1zVKEQGAdVDUtV6pqWCTBm4kmV8jORv16/view?usp=drive_link))**
+10. **Selenium WebDriver 4 w Javie**: testelka.pl; <br>
+**[certyficate](https://drive.google.com/file/d/1zVKEQGAdVDUtV6pqWCTBm4kmV8jORv16/view?usp=drive_link)**
 
 ## Courses started
 10. Selenium Java od podstaw: testeroprogramowania.pl;
